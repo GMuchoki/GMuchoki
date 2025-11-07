@@ -33,5 +33,5 @@ I'm a passionate Full-Stack Developer who loves building modern, user-friendly a
 
 ## 🌐 Connect with me
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=for-the-badge)](https://github.com/GMuchoki)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&style=for-the-badge)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/munenemuchoki/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=vercel&style=for-the-badge)]([https://your-portfolio-link.com](https://mxlrho.mimo.run/index.html))
