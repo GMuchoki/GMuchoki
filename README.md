@@ -3,7 +3,7 @@
 I'm a passionate Full-Stack Developer who loves building modern, user-friendly apps.
 
 ## 💻 About Me
-- 🔭 I’m currently working on: **Pixel Grid, Nesh E-commerce, and Movie App**
+- 🔭 I’m currently working on: **Financial Planner and Nesh E-commerce**
 - 🌱 I’m learning: **Next.js, TypeScript, and Supabase**
 - 💬 Ask me about: **React, Node.js, Express, and APIs**
 - ⚡ Fun fact: I love combining art and code to create beautiful web experiences.
