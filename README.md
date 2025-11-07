@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Geffrey Munene Muchoki
+# 👋 Hi, I'm Geoffrey Munene Muchoki
 
 I'm a passionate Full-Stack Developer who loves building modern, user-friendly apps.
 
